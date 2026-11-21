@@ -11,7 +11,12 @@ UI는 Avalonia, 그래프는 Scottplot, dotnet 10.0 대상진행.
 덤으로 안드로이드 지원 추가. 휴대폰에서 간편하게 로깅 되도록.
 이때 추가 권한은 INTERNET권한.(TCP/UDP통신을 위한)
 INTERNET
+
 FOREGROUND_SERVICE
+
 FOREGROUND_SERVICE_CONNECTED_DEVICE
+
 CHANGE_NETWORK_STATE
+
 POST_NOTIFICATIONS
+

@@ -1,0 +1,11 @@
+﻿<Solution>
+  <Project Path="Mitsubishi_PLC_Logger_Tool.Android/Mitsubishi_PLC_Logger_Tool.Android.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="Mitsubishi_PLC_Logger_Tool.Browser/Mitsubishi_PLC_Logger_Tool.Browser.csproj" />
+  <Project Path="Mitsubishi_PLC_Logger_Tool.Desktop/Mitsubishi_PLC_Logger_Tool.Desktop.csproj" />
+  <Project Path="Mitsubishi_PLC_Logger_Tool.iOS/Mitsubishi_PLC_Logger_Tool.iOS.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="Mitsubishi_PLC_Logger_Tool/Mitsubishi_PLC_Logger_Tool.csproj" />
+</Solution>

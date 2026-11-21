@@ -22,3 +22,11 @@ POST_NOTIFICATIONS
 
 
 ![PLC Logger Prototype](prototype.svg)
+
+
+기본적인 데이터 처리.
+
+상태머신으로 시리얼하게 처리.
+
+IDLE - PLC_READ - Value UPDATE - CSV LOGGING - WAIT(Polling Time) 구조의 상태머신.
+
